@@ -140,7 +140,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## Development Notes
 
-- Built from scratch using modern React and TypeScript
 - Extensively customized and optimized in VS Code
 - Enhanced with additional features and personal branding
 - Optimized for performance and SEO
