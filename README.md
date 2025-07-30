@@ -119,10 +119,10 @@ The portfolio is fully responsive and optimized for:
 
 ## Contact
 
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your LinkedIn Profile]
-- **GitHub**: [Your GitHub Profile]
-- **Portfolio**: [https://data-driven-jayashree.lovable.app/](https://data-driven-jayashree.lovable.app/)
+- **Email**: jayashree125na@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/jayashree-n-566460271/
+- **GitHub**: https://github.com/JayashreeAN  
+- **Portfolio**: https://data-driven-jayashree.lovable.app/
 
 ## Acknowledgments
 
